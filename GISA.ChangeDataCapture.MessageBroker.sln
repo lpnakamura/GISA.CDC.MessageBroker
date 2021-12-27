@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GISA.ChangeDataCapture.MessageBroker", "GISA.ChangeDataCapture.Integration.MessageBroker\GISA.ChangeDataCapture.MessageBroker.csproj", "{A01EDDF7-4D70-46B8-AB76-839A2B290ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01EDDF7-4D70-46B8-AB76-839A2B290ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01EDDF7-4D70-46B8-AB76-839A2B290ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01EDDF7-4D70-46B8-AB76-839A2B290ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01EDDF7-4D70-46B8-AB76-839A2B290ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D8CABA-5561-4A62-A7F3-D69E86C495D0}
+	EndGlobalSection
+EndGlobal
